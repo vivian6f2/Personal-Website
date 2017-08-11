@@ -1,0 +1,6 @@
+[submodule "hugo-creative-theme"]
+	path = hugo-creative-theme
+	url = https://github.com/digitalcraftsman/hugo-creative-theme
+[submodule "themes/minimal"]
+	path = themes/minimal
+	url = https://github.com/calintat/minimal.git

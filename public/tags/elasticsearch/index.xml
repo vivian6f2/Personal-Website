@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elasticsearch on Ting-Hsuan Lin</title>
+    <link>http://example.com/tags/elasticsearch/</link>
+    <description>Recent content in Elasticsearch on Ting-Hsuan Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.com/tags/elasticsearch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tap News</title>
+      <link>http://example.com/ec2-34-223-214-115.us-west-2.compute.amazonaws.com3000</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/ec2-34-223-214-115.us-west-2.compute.amazonaws.com3000</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
