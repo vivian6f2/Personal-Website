@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minimal on Ting-Hsuan Lin</title>
+    <link>https://vivian6f2.github.io/tags/minimal/</link>
+    <description>Recent content in Minimal on Ting-Hsuan Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vivian6f2.github.io/tags/minimal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About this website</title>
+      <link>https://vivian6f2.github.io/blog/about-this-website/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://vivian6f2.github.io/blog/about-this-website/</guid>
+      <description>About This Website This website is built based on hugo with theme minimal.
+I built this website for displaying my projects and resume, and also for updating blog in a flexible, easy-to-use static site.
+If you are interested, feel free to take a look at github.</description>
+    </item>
+    
+  </channel>
+</rss>
