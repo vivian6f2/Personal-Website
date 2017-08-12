@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>About this website</title>
+      <title>About This Website</title>
       <link>https://vivian6f2.github.io/blog/about-this-website/</link>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://vivian6f2.github.io/blog/about-this-website/</guid>
-      <description>About This Website This website is built based on hugo with theme minimal.
+      <description>About This Website 
+This website is built based on hugo with theme minimal.
 I built this website for displaying my projects and resume, and also for updating blog in a flexible, easy-to-use static site.
 If you are interested, feel free to take a look at github.</description>
     </item>

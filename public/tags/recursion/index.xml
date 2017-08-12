@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recursion on Ting-Hsuan Lin</title>
+    <link>https://vivian6f2.github.io/tags/recursion/</link>
+    <description>Recent content in Recursion on Ting-Hsuan Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vivian6f2.github.io/tags/recursion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Many Combination Results</title>
+      <link>https://vivian6f2.github.io/blog/how-many-combination-results/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://vivian6f2.github.io/blog/how-many-combination-results/</guid>
+      <description>How Many Combination Results 
+Description Given an array of numbers, put [+, -, *, /] randomly between every two numbers. Compute and list all possible results.
+
+My Thoughts I think I can do it both iteratively and recursively. If I want to do it iteratively, then I need a stack or a queue. While I do it recursively, then I just have to push result into array when I finish computing last number.</description>
+    </item>
+    
+  </channel>
+</rss>

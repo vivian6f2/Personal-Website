@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pointer on Ting-Hsuan Lin</title>
+    <link>https://vivian6f2.github.io/tags/pointer/</link>
+    <description>Recent content in Pointer on Ting-Hsuan Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vivian6f2.github.io/tags/pointer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Trapping Rain Water</title>
+      <link>https://vivian6f2.github.io/blog/trapping-rain-water/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://vivian6f2.github.io/blog/trapping-rain-water/</guid>
+      <description>Trapping Rain Water LeetCode #42 
+Description Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+For example,  Given [0,1,0,2,1,0,1,3,2,1,2,1], return 6.
+My Thoughts I would like to do this problem with two pointers, one points to left wall and another to right wall. If I can find out left and right wall for every part that can trap water, then I can easily compute total water I can get.</description>
+    </item>
+    
+  </channel>
+</rss>

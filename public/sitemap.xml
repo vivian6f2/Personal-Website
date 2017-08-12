@@ -41,8 +41,18 @@
   </url>
   
   <url>
-    <loc>https://vivian6f2.github.io/blog/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://vivian6f2.github.io/blog/what-happens-when-typing-url-into-the-browser/</loc>
+    <lastmod>2017-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/blog/how-many-combination-results/</loc>
+    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/blog/trapping-rain-water/</loc>
+    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -63,10 +73,6 @@
   <url>
     <loc>https://vivian6f2.github.io/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vivian6f2.github.io/blog/project1/</loc>
   </url>
   
   <url>
@@ -139,8 +145,26 @@
   </url>
   
   <url>
+    <loc>https://vivian6f2.github.io/tags/hard/</loc>
+    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://vivian6f2.github.io/tags/hugo/</loc>
     <lastmod>2017-08-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/interview/</loc>
+    <lastmod>2017-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/iteration/</loc>
+    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -157,6 +181,12 @@
   
   <url>
     <loc>https://vivian6f2.github.io/tags/jquery/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/leetcode/</loc>
+    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -202,6 +232,12 @@
   </url>
   
   <url>
+    <loc>https://vivian6f2.github.io/tags/pointer/</loc>
+    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://vivian6f2.github.io/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -214,11 +250,18 @@
   
   <url>
     <loc>https://vivian6f2.github.io/tags/python/</loc>
+    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vivian6f2.github.io/tags/react/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/recursion/</loc>
+    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -239,6 +282,12 @@
   
   <url>
     <loc>https://vivian6f2.github.io/tags/socket.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/stack/</loc>
+    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

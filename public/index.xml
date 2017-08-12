@@ -90,23 +90,49 @@ TECHNICAL SKILLS Programming Languages (order by familiarity): C++, Java, Python
     </item>
     
     <item>
-      <title>About this website</title>
+      <title>About This Website</title>
       <link>https://vivian6f2.github.io/blog/about-this-website/</link>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://vivian6f2.github.io/blog/about-this-website/</guid>
-      <description>About This Website This website is built based on hugo with theme minimal.
+      <description>About This Website 
+This website is built based on hugo with theme minimal.
 I built this website for displaying my projects and resume, and also for updating blog in a flexible, easy-to-use static site.
 If you are interested, feel free to take a look at github.</description>
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://vivian6f2.github.io/blog/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>What Happens When Typing URL Into The Browser</title>
+      <link>https://vivian6f2.github.io/blog/what-happens-when-typing-url-into-the-browser/</link>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://vivian6f2.github.io/blog/creating-a-new-theme/</guid>
-      <description>function $initHighlight(block, cls) { try { if (cls.search(/\bno\-highlight\b/) != -1) return process(block, true, 0x0F) + ` class=&amp;quot;${cls}&amp;quot;`; } catch (e) { /* handle exception */ } for (var i = 0 / 2; i &amp;lt; classes.length; i++) { if (checkCondition(classes[i]) === undefined) console.log(&#39;undefined&#39;); } } export $initHighlight;  @requires_authorization def somefunc(param1=&#39;&#39;, param2=0): r&#39;&#39;&#39;A docstring&#39;&#39;&#39; if param1 &amp;gt; param2: # interesting print &#39;Gre\&#39;ater&#39; return (param2 - param1 + 1 + 0b10l) or None class SomeClass: pass message = &#39;&#39;&#39;interpreter .</description>
+      <guid>https://vivian6f2.github.io/blog/what-happens-when-typing-url-into-the-browser/</guid>
+      <description>What Happens When Typing URL Into The Browser 
+Description What happens when you type www.google.com into the browser? Outline the &amp;ldquo;life of a request&amp;rdquo; from beginning to end.</description>
+    </item>
+    
+    <item>
+      <title>How Many Combination Results</title>
+      <link>https://vivian6f2.github.io/blog/how-many-combination-results/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://vivian6f2.github.io/blog/how-many-combination-results/</guid>
+      <description>How Many Combination Results 
+Description Given an array of numbers, put [+, -, *, /] randomly between every two numbers. Compute and list all possible results.
+
+My Thoughts I think I can do it both iteratively and recursively. If I want to do it iteratively, then I need a stack or a queue. While I do it recursively, then I just have to push result into array when I finish computing last number.</description>
+    </item>
+    
+    <item>
+      <title>Trapping Rain Water</title>
+      <link>https://vivian6f2.github.io/blog/trapping-rain-water/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://vivian6f2.github.io/blog/trapping-rain-water/</guid>
+      <description>Trapping Rain Water LeetCode #42 
+Description Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+For example,  Given [0,1,0,2,1,0,1,3,2,1,2,1], return 6.
+My Thoughts I would like to do this problem with two pointers, one points to left wall and another to right wall. If I can find out left and right wall for every part that can trap water, then I can easily compute total water I can get.</description>
     </item>
     
     <item>
@@ -152,15 +178,6 @@ Follow the following steps:
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>About this website</title>
-      <link>https://vivian6f2.github.io/blog/project1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vivian6f2.github.io/blog/project1/</guid>
-      <description></description>
     </item>
     
   </channel>

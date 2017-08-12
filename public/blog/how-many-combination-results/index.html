@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+    <head>
+
+        <title>How Many Combination Results</title>
+
+        <style>
+
+    html body {
+        font-family: Raleway, sans-serif;
+        background-color: white;
+    }
+
+    :root {
+        --accent: #84C1FF;
+        --border-width:  5px ;
+    }
+
+</style>
+
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+
+ <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/tomorrow.min.css"> 
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+ 
+
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/javascript.min.js"></script>  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/c&#43;&#43;.min.js"></script>  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/json.min.js"></script>  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/swift.min.js"></script>  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/php.min.js"></script>  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/sql.min.js"></script>  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/html.min.js"></script> 
+
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+ <meta name="generator" content="Hugo 0.26" />
+
+        <meta charset="utf-8">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    </head>
+
+    <body>
+
+        <nav class="navbar navbar-default navbar-fixed-top">
+
+            <div class="container">
+
+                <div class="navbar-header">
+
+                    <a class="navbar-brand visible-xs" href="#">How Many Combination Results</a>
+
+                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                </div>
+
+                <div class="collapse navbar-collapse">
+
+                    
+                        <ul class="nav navbar-nav">
+                            
+                                <li><a href="/">Home</a></li>
+                            
+                                <li><a href="/blog/">Blog</a></li>
+                            
+                                <li><a href="/project/">Projects</a></li>
+                            
+                                <li><a href="/resume/">Resume</a></li>
+                            
+                        </ul>
+                    
+
+                    
+                        <ul class="nav navbar-nav navbar-right">
+                            
+                                <li class="navbar-icon"><a href="mailto:6f2vivian@gmail.com"><i class="fa fa-envelope-o"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://github.com/vivian6f2/"><i class="fa fa-github"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.linkedin.com/in/ting-hsuan-lin-829138133/"><i class="fa fa-linkedin"></i></a></li>
+                            
+                        </ul>
+                    
+
+                </div>
+
+            </div>
+
+        </nav>
+
+
+<main>
+
+    
+	
+
+	<h2>How Many Combination Results</h2>
+	<h6>August 7, 2017</h6>
+     <kbd class="item-tag">Python</kbd>  <kbd class="item-tag">Stack</kbd>  <kbd class="item-tag">Iteration</kbd>  <kbd class="item-tag">Recursion</kbd> 
+
+    <br><br>
+    <div class="text-justify">
+
+<h2 id="how-many-combination-results">How Many Combination Results</h2>
+
+<p><br/></p>
+
+<h4 id="description">Description</h4>
+
+<p>Given an array of numbers, put [+, -, *, /] randomly between every two numbers. Compute and list all possible results.</p>
+
+<p><br/></p>
+
+<h4 id="my-thoughts">My Thoughts</h4>
+
+<p>I think I can do it both iteratively and recursively. If I want to do it iteratively, then I need a stack or a queue. While I do it recursively, then I just have to push result into array when I finish computing last number. Let me explain what I have to do iteratively and recursively.</p>
+
+<h5 id="iteration">Iteration</h5>
+
+<ol>
+<li>Push first number into stack.</li>
+<li>Loop index i from second number to last number:
+
+<ol>
+<li>Pop the stack and compute it with ith number with operator [+, -, *, /].</li>
+<li>Push this value into temporary stack.</li>
+<li>Keep poping the stack until nothing left.</li>
+</ol></li>
+<li>Move all elements from temporary stack into stack.</li>
+<li>Keep looping until index i equals to last index.</li>
+</ol>
+
+<h5 id="recursion">Recursion</h5>
+
+<ol>
+<li>Boundary condition: after computing last number, push the computing result into array and return.</li>
+<li>General condition: call recursive function with index + 1 and value = value [+, -, *, /] nums[index]</li>
+</ol>
+
+<p><br/></p>
+
+<h4 id="solution">Solution</h4>
+
+<h5 id="iteration-1">Iteration</h5>
+
+<pre><code>def combination(nums):
+	results = []
+	results.push([nums[0]])
+	for index in range(1, len(nums)):
+		tmpResults = []
+		while (value = results.pop()):
+			if (value + nums[index]) not in tmpResults:
+				tmpResults.push(value + nums[index])
+			if (value - nums[index]) not in tmpResults:
+				tmpResults.push(value - nums[index])
+			if (value * nums[index]) not in tmpResults:
+				tmpResults.push(value * nums[index])
+			if (value / nums[index]) not in tmpResults:
+				tmpResults.push(value / nums[index])
+		results = tmpResults
+	return results
+</code></pre>
+
+<h5 id="recursion-1">Recursion</h5>
+
+<pre><code>def combination(nums):
+	results = []
+
+	def DFS(curIndex, value):
+		if(curIndex == nums.length-1):
+			if (value + nums[curIndex]) not in results:
+				results.push(value + nums[curIndex])
+			if (value - nums[curIndex]) not in results:
+				results.push(value - nums[curIndex])
+			if (value * nums[curIndex]) not in results:
+				results.push(value * nums[curIndex])
+			if (value / nums[curIndex]) not in results:
+				results.push(value / nums[curIndex])
+		else:
+			DFS(curIndex + 1, value + nums[curIndex])
+			DFS(curIndex + 1, value - nums[curIndex])
+			DFS(curIndex + 1, value * nums[curIndex])
+			DFS(curIndex + 1, value / nums[curIndex])
+
+	DFS(1, nums[0])
+	return results
+</code></pre>
+</div>
+
+    
+    
+
+    
+
+        <h4 class="page-header">Related</h4>
+
+         <div class="item">
+
+	
+
+	
+
+    
+
+    
+    
+
+    <h4><a href="/blog/trapping-rain-water/">
+    
+    Trapping Rain Water</a></h4>
+
+    <h5>August 7, 2017</h5>
+     <kbd class="item-tag">LeetCode</kbd>  <kbd class="item-tag">Hard</kbd>  <kbd class="item-tag">Python</kbd>  <kbd class="item-tag">Pointer</kbd> 
+
+</div>
+ 
+
+    
+
+</main>
+
+
+
+        <footer>
+
+            <p class="copyright text-muted">&copy; All rights reserved. Website built by Ting-Hsuan Lin (Vivian)</p>
+
+        </footer>
+
+    </body>
+
+</html>
+

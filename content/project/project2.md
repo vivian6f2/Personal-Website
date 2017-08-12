@@ -6,5 +6,5 @@ url: "www.google.com"
 tags: ["html", "css", "js"]
 weight: 2
 draft: true
-type: "globe"
+type: ["globe"]
 ---
