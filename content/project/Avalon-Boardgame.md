@@ -9,5 +9,5 @@ repo: "Avalon_Boardgame" # delete this line if you want blog-like posts for proj
 tags: ["Node.js", "socket.io", "jQuery", "Game", "USC"]
 weight: 6
 draft: false
-type: "github"
+types: ["github", "user"]
 ---

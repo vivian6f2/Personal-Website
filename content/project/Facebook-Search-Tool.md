@@ -12,5 +12,5 @@ repo: "Facebook-Search-Tool" # delete this line if you want blog-like posts for 
 tags: ["Bootstrap", "jQuery", "AngularJS", "Swift", "PHP", "RESTful API", "AWS", "USC"]
 weight: 5
 draft: false
-type: "github"
+types: ["github", "user"]
 ---

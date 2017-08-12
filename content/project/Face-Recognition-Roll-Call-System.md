@@ -10,5 +10,5 @@ repo: "Face-Recognition-Roll-Call-System" # delete this line if you want blog-li
 tags: ["PHP", "JavaScript", "MySQL", "NCTU"]
 weight: 9
 draft: false
-type: "github"
+types: ["github", "users"]
 ---

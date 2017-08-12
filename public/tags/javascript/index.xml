@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javascript on Ting-Hsuan Lin</title>
-    <link>http://example.com/tags/javascript/</link>
+    <link>https://vivian6f2.github.io/tags/javascript/</link>
     <description>Recent content in Javascript on Ting-Hsuan Lin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vivian6f2.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2D Web Side-Scrolling Racing Game</title>
-      <link>http://example.com/project/side-scrolling-racing-game/</link>
+      <link>https://vivian6f2.github.io/project/side-scrolling-racing-game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/project/side-scrolling-racing-game/</guid>
+      <guid>https://vivian6f2.github.io/project/side-scrolling-racing-game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborative Online Judge System</title>
-      <link>http://example.com/ec2-54-71-209-134.us-west-2.compute.amazonaws.com3000</link>
+      <link>https://vivian6f2.github.io/ec2-54-71-209-134.us-west-2.compute.amazonaws.com3000</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/ec2-54-71-209-134.us-west-2.compute.amazonaws.com3000</guid>
+      <guid>https://vivian6f2.github.io/ec2-54-71-209-134.us-west-2.compute.amazonaws.com3000</guid>
       <description></description>
     </item>
     
     <item>
       <title>Face Recognition Roll Call System</title>
-      <link>http://example.com/project/face-recognition-roll-call-system/</link>
+      <link>https://vivian6f2.github.io/project/face-recognition-roll-call-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/project/face-recognition-roll-call-system/</guid>
+      <guid>https://vivian6f2.github.io/project/face-recognition-roll-call-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online Learning System</title>
-      <link>http://example.com/project/online-learning-system/</link>
+      <link>https://vivian6f2.github.io/project/online-learning-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/project/online-learning-system/</guid>
+      <guid>https://vivian6f2.github.io/project/online-learning-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tap News</title>
-      <link>http://example.com/ec2-34-223-214-115.us-west-2.compute.amazonaws.com3000</link>
+      <link>https://vivian6f2.github.io/ec2-34-223-214-115.us-west-2.compute.amazonaws.com3000</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/ec2-34-223-214-115.us-west-2.compute.amazonaws.com3000</guid>
+      <guid>https://vivian6f2.github.io/ec2-34-223-214-115.us-west-2.compute.amazonaws.com3000</guid>
       <description></description>
     </item>
     

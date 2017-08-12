@@ -3,275 +3,275 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/blog/project1/</loc>
+    <loc>https://vivian6f2.github.io/blog/project1/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/ec2-34-223-214-115.us-west-2.compute.amazonaws.com3000</loc>
+    <loc>https://vivian6f2.github.io/ec2-34-223-214-115.us-west-2.compute.amazonaws.com3000</loc>
   </url>
   
   <url>
-    <loc>http://example.com/ec2-54-71-209-134.us-west-2.compute.amazonaws.com3000</loc>
+    <loc>https://vivian6f2.github.io/ec2-54-71-209-134.us-west-2.compute.amazonaws.com3000</loc>
   </url>
   
   <url>
-    <loc>http://example.com/project/facebook-search-tool/</loc>
+    <loc>https://vivian6f2.github.io/project/facebook-search-tool/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/project/avalon-boardgame/</loc>
+    <loc>https://vivian6f2.github.io/project/avalon-boardgame/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/project/side-scrolling-racing-game/</loc>
+    <loc>https://vivian6f2.github.io/project/side-scrolling-racing-game/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/project/online-learning-system/</loc>
+    <loc>https://vivian6f2.github.io/project/online-learning-system/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/project/face-recognition-roll-call-system/</loc>
+    <loc>https://vivian6f2.github.io/project/face-recognition-roll-call-system/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/resume/</loc>
+    <loc>https://vivian6f2.github.io/resume/</loc>
     <lastmod>2017-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/post/creating-a-new-theme/</loc>
+    <loc>https://vivian6f2.github.io/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/post/goisforlovers/</loc>
+    <loc>https://vivian6f2.github.io/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/post/hugoisforlovers/</loc>
+    <loc>https://vivian6f2.github.io/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/post/migrate-from-jekyll/</loc>
+    <loc>https://vivian6f2.github.io/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/tags/angular2/</loc>
+    <loc>https://vivian6f2.github.io/tags/angular2/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/angularjs/</loc>
+    <loc>https://vivian6f2.github.io/tags/angularjs/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/aws/</loc>
+    <loc>https://vivian6f2.github.io/tags/aws/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/blog/</loc>
+    <loc>https://vivian6f2.github.io/blog/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/bootstrap/</loc>
+    <loc>https://vivian6f2.github.io/tags/bootstrap/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/</loc>
+    <loc>https://vivian6f2.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/development/</loc>
+    <loc>https://vivian6f2.github.io/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/docker/</loc>
+    <loc>https://vivian6f2.github.io/tags/docker/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/elasticsearch/</loc>
+    <loc>https://vivian6f2.github.io/tags/elasticsearch/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/express/</loc>
+    <loc>https://vivian6f2.github.io/tags/express/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/game/</loc>
+    <loc>https://vivian6f2.github.io/tags/game/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/go/</loc>
+    <loc>https://vivian6f2.github.io/tags/go/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/golang/</loc>
+    <loc>https://vivian6f2.github.io/tags/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/hugo/</loc>
+    <loc>https://vivian6f2.github.io/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/javascript/</loc>
+    <loc>https://vivian6f2.github.io/tags/javascript/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/jquery/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/mongodb/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/mysql/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/nctu/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/nginx/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/nlp/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/node.js/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/php/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/project/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/python/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/react/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/redia/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/redis/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/restful-api/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/socket.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/static-site-generator/</loc>
+    <loc>https://vivian6f2.github.io/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/swift/</loc>
+    <loc>https://vivian6f2.github.io/tags/jquery/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://vivian6f2.github.io/tags/mongodb/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/template/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://vivian6f2.github.io/tags/mysql/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/tensorflow/</loc>
+    <loc>https://vivian6f2.github.io/tags/nctu/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/themes/</loc>
+    <loc>https://vivian6f2.github.io/tags/nginx/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/nlp/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/node.js/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/php/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://vivian6f2.github.io/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/python/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/react/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/redia/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/redis/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/restful-api/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/socket.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/static-site-generator/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/swift/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/template/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/tensorflow/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/tags/themes/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vivian6f2.github.io/</loc>
     <lastmod>2017-08-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/ui/ux/</loc>
+    <loc>https://vivian6f2.github.io/tags/ui/ux/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/usc/</loc>
+    <loc>https://vivian6f2.github.io/tags/usc/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

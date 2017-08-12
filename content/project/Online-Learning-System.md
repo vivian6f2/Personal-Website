@@ -9,5 +9,5 @@ repo: "Online-Learning-System" # delete this line if you want blog-like posts fo
 tags: ["UI/UX", "PHP", "MySQL", "JavaScript", "NCTU"]
 weight: 8
 draft: false
-type: "github"
+types: ["github", "users"]
 ---

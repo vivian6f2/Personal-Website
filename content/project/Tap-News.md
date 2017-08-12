@@ -15,5 +15,5 @@ url: "ec2-34-223-214-115.us-west-2.compute.amazonaws.com:3000"
 tags: ["JavaScript", "Python", "React", "Node.js", "Express", "Redis", "MongoDB", "Tensorflow", "NLP", "Elasticsearch", "AWS", "USC"]
 weight: 3
 draft: false
-type: "globe"
+types: ["globe", "users"]
 ---

@@ -9,5 +9,5 @@ repo: "Side-Scrolling-Racing-Game" # delete this line if you want blog-like post
 tags: ["UI/UX", "PHP", "MySQL", "JavaScript", "Game", "NCTU"]
 weight: 7
 draft: false
-type: "github"
+types: ["github", "user"]
 ---

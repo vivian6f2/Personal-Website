@@ -2,327 +2,327 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ting-Hsuan Lin</title>
-    <link>http://example.com/tags/</link>
+    <link>https://vivian6f2.github.io/tags/</link>
     <description>Recent content in Tags on Ting-Hsuan Lin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vivian6f2.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Angular2</title>
-      <link>http://example.com/tags/angular2/</link>
+      <link>https://vivian6f2.github.io/tags/angular2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/angular2/</guid>
+      <guid>https://vivian6f2.github.io/tags/angular2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Angularjs</title>
-      <link>http://example.com/tags/angularjs/</link>
+      <link>https://vivian6f2.github.io/tags/angularjs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/angularjs/</guid>
+      <guid>https://vivian6f2.github.io/tags/angularjs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aws</title>
-      <link>http://example.com/tags/aws/</link>
+      <link>https://vivian6f2.github.io/tags/aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/aws/</guid>
+      <guid>https://vivian6f2.github.io/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bootstrap</title>
-      <link>http://example.com/tags/bootstrap/</link>
+      <link>https://vivian6f2.github.io/tags/bootstrap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/bootstrap/</guid>
+      <guid>https://vivian6f2.github.io/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://example.com/tags/development/</link>
+      <link>https://vivian6f2.github.io/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/development/</guid>
+      <guid>https://vivian6f2.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>http://example.com/tags/docker/</link>
+      <link>https://vivian6f2.github.io/tags/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/docker/</guid>
+      <guid>https://vivian6f2.github.io/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elasticsearch</title>
-      <link>http://example.com/tags/elasticsearch/</link>
+      <link>https://vivian6f2.github.io/tags/elasticsearch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/elasticsearch/</guid>
+      <guid>https://vivian6f2.github.io/tags/elasticsearch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Express</title>
-      <link>http://example.com/tags/express/</link>
+      <link>https://vivian6f2.github.io/tags/express/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/express/</guid>
+      <guid>https://vivian6f2.github.io/tags/express/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Game</title>
-      <link>http://example.com/tags/game/</link>
+      <link>https://vivian6f2.github.io/tags/game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/game/</guid>
+      <guid>https://vivian6f2.github.io/tags/game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://example.com/tags/go/</link>
+      <link>https://vivian6f2.github.io/tags/go/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/go/</guid>
+      <guid>https://vivian6f2.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://example.com/tags/golang/</link>
+      <link>https://vivian6f2.github.io/tags/golang/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/golang/</guid>
+      <guid>https://vivian6f2.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://example.com/tags/hugo/</link>
+      <link>https://vivian6f2.github.io/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/hugo/</guid>
+      <guid>https://vivian6f2.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Javascript</title>
-      <link>http://example.com/tags/javascript/</link>
+      <link>https://vivian6f2.github.io/tags/javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/javascript/</guid>
+      <guid>https://vivian6f2.github.io/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll</title>
-      <link>http://example.com/tags/jekyll/</link>
+      <link>https://vivian6f2.github.io/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/jekyll/</guid>
+      <guid>https://vivian6f2.github.io/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jquery</title>
-      <link>http://example.com/tags/jquery/</link>
+      <link>https://vivian6f2.github.io/tags/jquery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/jquery/</guid>
+      <guid>https://vivian6f2.github.io/tags/jquery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mongodb</title>
-      <link>http://example.com/tags/mongodb/</link>
+      <link>https://vivian6f2.github.io/tags/mongodb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/mongodb/</guid>
+      <guid>https://vivian6f2.github.io/tags/mongodb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mysql</title>
-      <link>http://example.com/tags/mysql/</link>
+      <link>https://vivian6f2.github.io/tags/mysql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/mysql/</guid>
+      <guid>https://vivian6f2.github.io/tags/mysql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nctu</title>
-      <link>http://example.com/tags/nctu/</link>
+      <link>https://vivian6f2.github.io/tags/nctu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/nctu/</guid>
+      <guid>https://vivian6f2.github.io/tags/nctu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nginx</title>
-      <link>http://example.com/tags/nginx/</link>
+      <link>https://vivian6f2.github.io/tags/nginx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/nginx/</guid>
+      <guid>https://vivian6f2.github.io/tags/nginx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nlp</title>
-      <link>http://example.com/tags/nlp/</link>
+      <link>https://vivian6f2.github.io/tags/nlp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/nlp/</guid>
+      <guid>https://vivian6f2.github.io/tags/nlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Node.js</title>
-      <link>http://example.com/tags/node.js/</link>
+      <link>https://vivian6f2.github.io/tags/node.js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/node.js/</guid>
+      <guid>https://vivian6f2.github.io/tags/node.js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Php</title>
-      <link>http://example.com/tags/php/</link>
+      <link>https://vivian6f2.github.io/tags/php/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/php/</guid>
+      <guid>https://vivian6f2.github.io/tags/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://example.com/tags/python/</link>
+      <link>https://vivian6f2.github.io/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/python/</guid>
+      <guid>https://vivian6f2.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>React</title>
-      <link>http://example.com/tags/react/</link>
+      <link>https://vivian6f2.github.io/tags/react/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/react/</guid>
+      <guid>https://vivian6f2.github.io/tags/react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Redia</title>
-      <link>http://example.com/tags/redia/</link>
+      <link>https://vivian6f2.github.io/tags/redia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/redia/</guid>
+      <guid>https://vivian6f2.github.io/tags/redia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Redis</title>
-      <link>http://example.com/tags/redis/</link>
+      <link>https://vivian6f2.github.io/tags/redis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/redis/</guid>
+      <guid>https://vivian6f2.github.io/tags/redis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Restful Api</title>
-      <link>http://example.com/tags/restful-api/</link>
+      <link>https://vivian6f2.github.io/tags/restful-api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/restful-api/</guid>
+      <guid>https://vivian6f2.github.io/tags/restful-api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Socket.io</title>
-      <link>http://example.com/tags/socket.io/</link>
+      <link>https://vivian6f2.github.io/tags/socket.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/socket.io/</guid>
+      <guid>https://vivian6f2.github.io/tags/socket.io/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Static Site Generator</title>
-      <link>http://example.com/tags/static-site-generator/</link>
+      <link>https://vivian6f2.github.io/tags/static-site-generator/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/static-site-generator/</guid>
+      <guid>https://vivian6f2.github.io/tags/static-site-generator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swift</title>
-      <link>http://example.com/tags/swift/</link>
+      <link>https://vivian6f2.github.io/tags/swift/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/swift/</guid>
+      <guid>https://vivian6f2.github.io/tags/swift/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Template</title>
-      <link>http://example.com/tags/template/</link>
+      <link>https://vivian6f2.github.io/tags/template/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/template/</guid>
+      <guid>https://vivian6f2.github.io/tags/template/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tensorflow</title>
-      <link>http://example.com/tags/tensorflow/</link>
+      <link>https://vivian6f2.github.io/tags/tensorflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/tensorflow/</guid>
+      <guid>https://vivian6f2.github.io/tags/tensorflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>http://example.com/tags/themes/</link>
+      <link>https://vivian6f2.github.io/tags/themes/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/themes/</guid>
+      <guid>https://vivian6f2.github.io/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ui/Ux</title>
-      <link>http://example.com/tags/ui/ux/</link>
+      <link>https://vivian6f2.github.io/tags/ui/ux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/ui/ux/</guid>
+      <guid>https://vivian6f2.github.io/tags/ui/ux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Usc</title>
-      <link>http://example.com/tags/usc/</link>
+      <link>https://vivian6f2.github.io/tags/usc/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/usc/</guid>
+      <guid>https://vivian6f2.github.io/tags/usc/</guid>
       <description></description>
     </item>
     

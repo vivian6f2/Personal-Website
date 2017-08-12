@@ -12,5 +12,5 @@ url : "ec2-54-71-209-134.us-west-2.compute.amazonaws.com:3000"
 tags: ["JavaScript", "Python", "Angular2", "Node.js", "Express", "Redia", "MongoDB", "Docker", "RESTful API", "Nginx", "USC"]
 weight: 4
 draft: false
-type: "globe"
+types: ["globe", "user"]
 ---
