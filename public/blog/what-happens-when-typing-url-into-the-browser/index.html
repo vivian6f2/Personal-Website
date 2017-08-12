@@ -123,7 +123,7 @@
 
 	<h2>What Happens When Typing URL Into The Browser</h2>
 	<h6>August 9, 2017</h6>
-     <kbd class="item-tag">Interview</kbd> 
+     <kbd class="item-tag">Interview</kbd>  <kbd class="item-tag">TCP/IP</kbd>  <kbd class="item-tag">HTTP</kbd> 
 
     <br><br>
     <div class="text-justify">
@@ -135,6 +135,60 @@
 <h4 id="description">Description</h4>
 
 <p>What happens when you type www.google.com into the browser? Outline the &ldquo;life of a request&rdquo; from beginning to end.</p>
+
+<p><br/></p>
+
+<h4 id="my-answer">My Answer</h4>
+
+<h5 id="high-level-outline"><strong>High-level outline</strong></h5>
+
+<ul>
+<li><p>Browser check it&rsquo;s cache to see if it has been to that domain name before.</p>
+
+<p>After user typed www.google.com in browser&rsquo;s url bar and clicked enter, browser will check the input with the domain IP pair in it&rsquo;s cache. If it exists, then browser gets IP address directly and skip next step.</p></li>
+
+<li><p>Browser sends request to DNS and get an IP address.</p>
+
+<p>Browser sends request to local DNS server, take www.google.com as an example:</p>
+
+<ol>
+<li>Local DNS sends request about looking for www.google.com to the root DNS &ldquo;.&rdquo;, and it will return DNS for &ldquo;.com&rdquo; to local DNS.</li>
+<li>Local DNS then sends request to look for www.google.com to &ldquo;.com&rdquo; DNS, and also return DNS for &ldquo;google.com&rdquo;.</li>
+<li>Local DNS then sends request to &ldquo;google.com&rdquo; DNS and gets IP of &ldquo;www.google.com&rdquo;.</li>
+</ol></li>
+
+<li><p>Browser uses the IP address + the port number to connect to the server via TCP/IP.</p>
+
+<p>Browser connects to the server with IP:port via TCP/IP. The port number may be explicitly or implicitly described in the URL. And for HTTP, the port number is 80, while HTTPS is 443.</p></li>
+
+<li><p>Google is obviously a huge site with many servers, so some kind of load-balancing is involved to route the request to a specific available server.</p>
+
+<p>We may first get the IP for Google&rsquo;s load-balancing server, so after first TCP/IP request, it may send browser a new IP address which links to a specific available Google server.</p></li>
+
+<li><p>Browser uses the TCP stream thus opened up to start sending text to the server.</p></li>
+
+<li><p>Browser sends an HTTP request (which is just text) to tell the server which path, host, and &ldquo;verb&rdquo; it is requesting.</p>
+
+<p>After opened a TCP stream, browsers can start sending HTTP requests. Browser may also check it&rsquo;s cache for cookies of this site. A HTTP request may contain path, host, and &ldquo;verb&rdquo; (GET, POST, etc), and also cookies and headers.</p></li>
+
+<li><p>The HTTP request also contains a variety of other important headers which tell the server who you are and more about what you want.</p></li>
+
+<li><p>The server process the text of the HTTP request into a request object in memory.</p></li>
+
+<li><p>The resulting bundle of HTML, inline JavaScript, inline CSS, and possibly inlined binary data, is packaged up into an HTTP response.</p></li>
+
+<li><p>The HTTP response is shipped back through the TCP stream.</p></li>
+
+<li><p>The browser begins parsing the big wad of text in the HTTP response.</p></li>
+
+<li><p>As HTML, JavaScript, CSS are parsed, more HTTP requests are sent out to fetch more assets for the page.</p>
+
+<p>The browser must start parsing the HTML from the first line step by step to the last line of the HTML file. And if there are some script files requred, the browser will also send HTTP request to where it can get the response.</p></li>
+
+<li><p>The browser executes script and renders the results of all its parsing to the viewport.</p>
+
+<p>Because the browser must execute HTML and script line by line and render the results of all what it has parsed, it may stop rendering and wait for executing script file for a while. And Javascript file may take time to execute. Therefore, to make website work efficiently and render the site as fast as it can, it is always good to move all javaScript files to the bottom of the HTML file and move all CSS files to the beginning of the HTML file. Then the browser can render the website quickly and execute JavaScript files after rendering most of the stuff.</p></li>
+</ul>
 </div>
 
     

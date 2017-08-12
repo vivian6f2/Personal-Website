@@ -6,7 +6,6 @@
     <description>Recent content in Usc on Ting-Hsuan Lin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vivian6f2.github.io/tags/usc/index.xml" rel="self" type="application/rss+xml" />
     
@@ -45,16 +44,6 @@
       
       <guid>https://vivian6f2.github.io/ec2-34-223-214-115.us-west-2.compute.amazonaws.com3000</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>https://vivian6f2.github.io/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://vivian6f2.github.io/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
   </channel>

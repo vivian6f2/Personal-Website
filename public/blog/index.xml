@@ -30,7 +30,10 @@ If you are interested, feel free to take a look at github.</description>
       
       <guid>https://vivian6f2.github.io/blog/what-happens-when-typing-url-into-the-browser/</guid>
       <description>What Happens When Typing URL Into The Browser 
-Description What happens when you type www.google.com into the browser? Outline the &amp;ldquo;life of a request&amp;rdquo; from beginning to end.</description>
+Description What happens when you type www.google.com into the browser? Outline the &amp;ldquo;life of a request&amp;rdquo; from beginning to end.
+
+My Answer High-level outline  Browser check it&amp;rsquo;s cache to see if it has been to that domain name before.
+After user typed www.google.com in browser&amp;rsquo;s url bar and clicked enter, browser will check the input with the domain IP pair in it&amp;rsquo;s cache.</description>
     </item>
     
     <item>
